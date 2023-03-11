@@ -1,0 +1,7 @@
+import random
+response== "y"
+randint(start,end)
+
+no = random.randint(1,6)
+if conditiput.on
+print()
